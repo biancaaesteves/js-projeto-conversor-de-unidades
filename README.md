@@ -12,13 +12,18 @@ Aqui estão elas em ordem decrescente de magnitude:
 - Centímetro (CM)
 - Milímetro (MM)
 
+
 ## Tecnologias:
 
 - HTML
 - CSS
-- JavaScript. 
+- JavaScript
+
+
 
 🌐 Veja o projeto rodando no navegador através do Vercel:
+
+https://js-projeto-conversor-de-unidades.vercel.app/
 
 
 
