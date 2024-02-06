@@ -18,7 +18,7 @@ Aqui estão elas em ordem decrescente de magnitude:
 - CSS
 - JavaScript. 
 
-# Veja o projeto rodando no navegador através do Vercel:
+🌐 Veja o projeto rodando no navegador através do Vercel:
 
 
 
